@@ -2,12 +2,12 @@
 
 1. No, Not Now
 1. Helicopter*
-1. Riot Boogie
-1. Girl
+1. [*Riot Boogie*](../lyrics/riot-boogie.md)
+1. [*Girl*](../lyrics/girl.md)
 1. Keep On Holding On*
 1. Complete Control*
 1. Jiving Sister Fanny*
-1. Save Our Soul
+1. [*Save Our Soul*](lyrics/save-our-soul.md)
 1. Great Disaster
 1. Have you seen my baby?
 1. Keep On Groovin*
