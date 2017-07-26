@@ -1,10 +1,10 @@
 # Un Temps Pour Tous
 
 1. No, Not Now
-1. Helicopter*
+1. [*Helicopter*](../covers/helicopter.md) [🔈][helicopter]
 1. [*Riot Boogie*](../lyrics/riot-boogie.md)
 1. [*Girl*](../lyrics/girl.md)
-1. Keep On Holding On*
+1. I'll Keep On Holding On*
 1. Complete Control*
 1. Jiving Sister Fanny*
 1. [*Save Our Soul*](lyrics/save-our-soul.md)
@@ -33,3 +33,5 @@ Solos :
 * Intro de We've got
 * Intro de Complete Control
 * Outro de HAve you seen my baby
+
+[helicopter]: https://soundcloud.com/hooray-henrys/helicopter-bloc-party-cover
