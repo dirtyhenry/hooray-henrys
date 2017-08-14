@@ -1,6 +1,6 @@
 # Un Temps Pour Tous
 
-1. No, Not Now
+1. [*No, Not Now*](../covers/no-not-now.md)
 1. [*Helicopter*](../covers/helicopter.md) [🔈][helicopter]
 1. [*Riot Boogie*](../lyrics/riot-boogie.md)
 1. [*Girl*](../lyrics/girl.md)
