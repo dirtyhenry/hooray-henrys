@@ -24,12 +24,16 @@ An' worry about it later
 Ooh ooh ooh I'll never understand  
 Ooh ooh ooh complete control - lemme see your other hand!  
 
+I don’t trust you,  
+So why should you trust me? Huh?  
 All over the news spread fast  
 They're dirty, they're filthy  
 They ain't gonna last!  
 
 This is Joe Public speaking  
 I'm controlled in the body, controlled in the mind  
+This is the top rockers (Control)
+With your zone in the price you whore (C-O-N control)
 
 Total  
 See-o-n control - that means you!  
